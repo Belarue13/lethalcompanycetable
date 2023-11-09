@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Money"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01BEA140</Address>
+      <Offsets>
+        <Offset>1F0</Offset>
+        <Offset>B0</Offset>
+        <Offset>1E8</Offset>
+        <Offset>228</Offset>
+        <Offset>1D8</Offset>
+        <Offset>1C8</Offset>
+        <Offset>88</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"Stamina Pointer, by unmog"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01BE9E00</Address>
+      <Offsets>
+        <Offset>410</Offset>
+        <Offset>2F0</Offset>
+        <Offset>60</Offset>
+        <Offset>330</Offset>
+        <Offset>590</Offset>
+        <Offset>48</Offset>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
