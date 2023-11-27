@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Money"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01BEA140</Address>
+      <Offsets>
+        <Offset>1F0</Offset>
+        <Offset>B0</Offset>
+        <Offset>1E8</Offset>
+        <Offset>228</Offset>
+        <Offset>1D8</Offset>
+        <Offset>1C8</Offset>
+        <Offset>88</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Health"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01BEA140</Address>
+      <Offsets>
+        <Offset>56C</Offset>
+        <Offset>88</Offset>
+        <Offset>60</Offset>
+        <Offset>68</Offset>
+        <Offset>1B8</Offset>
+        <Offset>7C8</Offset>
+        <Offset>88</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Health Backup"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01BE9D00</Address>
+      <Offsets>
+        <Offset>56C</Offset>
+        <Offset>88</Offset>
+        <Offset>60</Offset>
+        <Offset>68</Offset>
+        <Offset>1B8</Offset>
+        <Offset>7C8</Offset>
+        <Offset>1A8</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
