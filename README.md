@@ -1,4 +1,4 @@
-# LethalCompanyCETable
+# LethalCompanyCETable OUTDATED
 A cheat engine table for Lethal Company. I will continue to work on this as time goes on (given I still play the game). So far I have a money pointer so you can change your money in game and a health pointe
 r.
 
